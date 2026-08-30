@@ -31,5 +31,5 @@ This agent was deployed directly to Cloud Run using the following Google Cloud S
 gcloud run deploy productivity-agent \
   --source . \
   --region us-central1 \
-  --set-env-vars GEMINI_API_KEY="https://productivity-agent-277368074908.us-central1.run.app" \
+  --set-env-vars GEMINI_API_KEY="A.xxxxxx7aqe" \
   --allow-unauthenticated
